@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9e91d238fef30054aaefab8c326138e4
+timeCreated: 1524276107
+licenseType: Free
+ScriptedImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 3701f04596f8fac4193258c57bcd3a4a, type: 3}
+  Settings:
+    ApplyStageTransform: 0
+    DefaultWrapMode: 2
+    AudioImport: 1
+    ImportCameras: 1
+    UnlitByDefault: 1
+    Shader: AnimVR/Standard
+  needsAudioReimport: 0
+  PreviewTexture: {instanceID: 0}
+  InfoString: "FPS: 12, 120 frames \n538452 verts, 3558 lines"
+  HasFades: 0
